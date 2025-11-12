@@ -20,10 +20,15 @@ The goal of this project is to:
 
 📂 Customer-Purchase-Analysis
  ┣ 📜 main.py                     # Python script with code
+ 
  ┣ 📊 gender_purchase.png         # Bar plot (Average purchase by gender)
+ 
  ┣ 📊 category_purchase.png       # Bar plot (Average purchase by category)
+ 
  ┣ 📊 purchase_distribution.png   # Histogram of purchase amounts
+ 
  ┣ 📊 correlation_matrix.png      # Heatmap (Correlation of numeric fields)
+ 
  ┗ 📘 README.md                   # Project documentation
 
 
