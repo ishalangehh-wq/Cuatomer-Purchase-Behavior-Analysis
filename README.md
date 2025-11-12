@@ -98,6 +98,3 @@ pip install pandas matplotlib seaborn
 
  
                                                                                                                                                            
-so you can attach it at the top of your README (like a banner)?
-It makes the repo look professional and portfolio-ready.
-     
